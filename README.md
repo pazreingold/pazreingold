@@ -1,10 +1,14 @@
-### Hi there 👋
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Paz Reingold
+====================================================================================================================================
 
-I'm Paz and this account is a show case of stuff that I like working on.
+Backend Developer
+-----------------
 
 🔭 I’m currently working on integration with Keycloak
 
 🌱 I’m currently learning Practical Reactive Streams with Akka and Java
+
+🌍  I'm based in Tel Aviv
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
