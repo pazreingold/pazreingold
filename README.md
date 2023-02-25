@@ -4,9 +4,9 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 Backend Developer
 -----------------
 
-🔭 I’m currently working on integration with Keycloak
+🔭 I’m currently working on migration from Bamboo to Jenkins
 
-🌱 I’m currently learning Practical Reactive Streams with Akka and Java
+🌱 I’m currently learning about monorepos with a focus on Nx
 
 🌍  I'm based in Tel Aviv
 
