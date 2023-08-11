@@ -4,9 +4,9 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 Backend Developer | Team Leader
 -----------------
 
-🔭 I’m currently working on services migration from Openshift 3 to Openshift 4
+🔭 I’m currently working at Cato Networks 
 
-🌱 I’m currently learning about NestJS
+🌱 I’m currently learning about Golang
 
 🌍  I'm based in Tel Aviv
 
